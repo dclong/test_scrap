@@ -1,4 +1,5 @@
 /target/
+.ipynb_checkpoints/
 
 ## Package Files
 *.jar
@@ -21,3 +22,4 @@ core
 deprecated
 
 *.png
+buf.txt
